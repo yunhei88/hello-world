@@ -8,7 +8,7 @@ markdown language - 글 서식 편집용 언어
 ### 귀여움
 
 ### 고양이
- <img src='고양지.png'/>
+ <img src='cat.jpg'/>
 
 ### 반려동물 시스템 발표자료
 [네이버검색](https://www.naver.com)<br>
